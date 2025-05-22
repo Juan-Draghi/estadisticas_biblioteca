@@ -32,6 +32,10 @@ El cuaderno está dividido en varias secciones, cada una dedicada al análisis d
     * Ordena los temas por cantidad de ocurrencias de mayor a menor.
     * Presenta una tabla con el Top 10 de temas más consultados, mapeando el código CDU a un nombre usando un diccionario interno.
 
-## Autor
+## Licencia
 
+Este proyecto está disponible bajo la [Licencia MIT](LICENSE).  
+Se permite su uso, copia, modificación y redistribución con o sin fines comerciales, siempre que se mantenga la atribución correspondiente.
+
+## Autor
 Juan Draghi - Biblioteca del Consejo Profesional de Arquitectura y Urbanismo (con la asistencia de Gemini)
