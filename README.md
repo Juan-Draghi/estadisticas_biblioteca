@@ -34,4 +34,4 @@ El cuaderno está dividido en varias secciones, cada una dedicada al análisis d
 
 ## Autor
 
-Juan Draghi - Biblioteca del Consejo Profesional de Arquitectura y Urbanismo
+Juan Draghi - Biblioteca del Consejo Profesional de Arquitectura y Urbanismo (con la asistencia de Gemini)
